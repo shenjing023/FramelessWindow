@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/laboratory.ico</file>
+        <file>main.qml</file>
+        <file>FramelessWindow/CustomMouseArea.qml</file>
+        <file>FramelessWindow/FramelessWindow.qml</file>
+        <file>FramelessWindow/TitleBar.qml</file>
+        <file>ContentWindow/ContentWindow.qml</file>
+        <file>Font/icomoon.ttf</file>
+    </qresource>
+</RCC>
