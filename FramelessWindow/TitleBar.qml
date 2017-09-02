@@ -119,7 +119,7 @@ Rectangle{
             if(parentObj.visibility!==Window.FullScreen)
                 return "\uf4a7";
             else
-                return "\uf492";
+                return "\ufe57";
         }
 
         background: Rectangle{
